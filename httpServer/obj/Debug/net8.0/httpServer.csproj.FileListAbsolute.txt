@@ -1,0 +1,14 @@
+/home/enrique/RiderProjects/httpGetAuthenticate01/httpGetAuthenticate01/httpServer/bin/Debug/net8.0/httpServer
+/home/enrique/RiderProjects/httpGetAuthenticate01/httpGetAuthenticate01/httpServer/bin/Debug/net8.0/httpServer.deps.json
+/home/enrique/RiderProjects/httpGetAuthenticate01/httpGetAuthenticate01/httpServer/bin/Debug/net8.0/httpServer.runtimeconfig.json
+/home/enrique/RiderProjects/httpGetAuthenticate01/httpGetAuthenticate01/httpServer/bin/Debug/net8.0/httpServer.dll
+/home/enrique/RiderProjects/httpGetAuthenticate01/httpGetAuthenticate01/httpServer/bin/Debug/net8.0/httpServer.pdb
+/home/enrique/RiderProjects/httpGetAuthenticate01/httpGetAuthenticate01/httpServer/obj/Debug/net8.0/httpServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/enrique/RiderProjects/httpGetAuthenticate01/httpGetAuthenticate01/httpServer/obj/Debug/net8.0/httpServer.AssemblyInfoInputs.cache
+/home/enrique/RiderProjects/httpGetAuthenticate01/httpGetAuthenticate01/httpServer/obj/Debug/net8.0/httpServer.AssemblyInfo.cs
+/home/enrique/RiderProjects/httpGetAuthenticate01/httpGetAuthenticate01/httpServer/obj/Debug/net8.0/httpServer.csproj.CoreCompileInputs.cache
+/home/enrique/RiderProjects/httpGetAuthenticate01/httpGetAuthenticate01/httpServer/obj/Debug/net8.0/httpServer.dll
+/home/enrique/RiderProjects/httpGetAuthenticate01/httpGetAuthenticate01/httpServer/obj/Debug/net8.0/refint/httpServer.dll
+/home/enrique/RiderProjects/httpGetAuthenticate01/httpGetAuthenticate01/httpServer/obj/Debug/net8.0/httpServer.pdb
+/home/enrique/RiderProjects/httpGetAuthenticate01/httpGetAuthenticate01/httpServer/obj/Debug/net8.0/httpServer.genruntimeconfig.cache
+/home/enrique/RiderProjects/httpGetAuthenticate01/httpGetAuthenticate01/httpServer/obj/Debug/net8.0/ref/httpServer.dll

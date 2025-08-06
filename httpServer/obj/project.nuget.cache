@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7/zA7y6Dm0o=",
+  "success": true,
+  "projectFilePath": "/home/enrique/RiderProjects/httpGetAuthenticate01/httpGetAuthenticate01/httpServer/httpServer.csproj",
+  "expectedPackageFiles": [
+    "/home/enrique/.nuget/packages/microsoft.dotnet.ilcompiler/8.0.18/microsoft.dotnet.ilcompiler.8.0.18.nupkg.sha512",
+    "/home/enrique/.nuget/packages/microsoft.net.illink.tasks/8.0.18/microsoft.net.illink.tasks.8.0.18.nupkg.sha512",
+    "/home/enrique/.nuget/packages/runtime.linux-x64.microsoft.dotnet.ilcompiler/8.0.18/runtime.linux-x64.microsoft.dotnet.ilcompiler.8.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
